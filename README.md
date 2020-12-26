@@ -1,2 +1,2 @@
 # Pharmacy
-The record of a pharmacy
+The administration of a pharmacy: it has employees and medicines.
