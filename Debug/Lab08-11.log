@@ -1,0 +1,20 @@
+﻿  Test.cpp
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\IRepository.h(74,20): warning C4018: '<': signed/unsigned mismatch
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\IRepository.h(66): message : while compiling class template member function 'int IRepository<T>::remove(int)'
+          with
+          [
+              T=Angajat
+          ]
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\Test.cpp(26): message : see reference to function template instantiation 'int IRepository<T>::remove(int)' being compiled
+          with
+          [
+              T=Angajat
+          ]
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\RepoFile.h(4): message : see reference to class template instantiation 'IRepository<T>' being compiled
+          with
+          [
+              T=Angajat
+          ]
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\RepoFileCSV.h(8): message : see reference to class template instantiation 'Repository<Angajat>' being compiled
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\Test.cpp(10): message : see reference to class template instantiation 'RepositoryFileCSV<Angajat>' being compiled
+  Lab08-11.vcxproj -> D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab08-11\Debug\Lab08-11.exe
